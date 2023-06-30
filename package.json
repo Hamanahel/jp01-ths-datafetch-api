@@ -1,0 +1,19 @@
+{
+	"name": "@hamanahel/jp01-ths-datafetch-api",
+	"version": "0.0.1",
+	"description": "Wrapper for Website Data API",
+	"main": "index.js",
+	"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+	"type": "git",
+	"url": "git+https://github.com/Hamanahel/jp01-ths-datafetch-api.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+	"url": "https://github.com/Hamanahel/jp01-ths-datafetch-api/issues"
+	},
+	"homepage": "https://github.com/Hamanahel/jp01-ths-datafetch-api#readme"
+}
